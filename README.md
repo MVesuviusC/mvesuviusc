@@ -7,7 +7,7 @@ I have a background studying a broad range of biological topics, though the comm
 
 ## Select project descriptions
 
-### 
+### Osteosarcoma metastasis induces chronic inflammation similar to other chronic pulmonary diseases
 
 ### Sequencing the Cuyahoga River
 
@@ -19,21 +19,46 @@ I have a background studying a broad range of biological topics, though the comm
 ## Teaching and mentoring
 
 ### Weekly bioinformatics meeting
+I run a weekly bioinformatics meeting at Nationwide Children's Hospital. The goal of the meeting is to provide a forum for people to present their work and get feedback, as well as to provide training on various bioinformatics topics. We cover a wide range of topics including RNAseq, single cell RNAseq, ATACseq, ChIPseq, metagenomics, variant analysis, phylogenetics, R programming, Python programming, bash scripting and more. We also have journal clubs and presentations from guest speakers occasionally.
+
+I try to keep code from demos we've done here: https://github.com/MVesuviusC/bioinformatics_meeting
+
+This is a calendar of topics we have covered: https://docs.google.com/spreadsheets/d/1yCwYNAL9MhYErl98CikoiTW6yx5gg54w66eD73WsRVc/edit?usp=sharing
+Just a warning, the links to the videos won't work unless you're internal to NCH. If there is something you'd really like to see let me know and I'll see if I can work it out.
 
 ### Annual introdution to R for biologists workshop
 
+https://github.com/MVesuviusC/R_workshop
+
 ### Annual SCRGOT Coder Upgrade single cell analysis workshop
 
+https://github.com/kidcancerlab/NCH_Coder_Upgrade
 
 ## My publications
+
+My Google Scholar profile:
+https://scholar.google.com/citations?user=w3XiPdEAAAAJ&hl=en
+
+My NCBI bibliography:
+https://www.ncbi.nlm.nih.gov/myncbi/collections/mybibliography/
+
 
 ## My R packages
 
 ### rrrSingleCellUtils
 
+
 ### scanBit
 
+
 ### primerTree
+
+
+## Random code bits of interest
+
+My gist where I dump random code bits of interest: https://gist.github.com/MVesuviusC
+
+A GitHub repo where I dump random code bits of interest: https://github.com/MVesuviusC/random_notes
 
 ## Computational skills
 
