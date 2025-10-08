@@ -50,6 +50,8 @@ I can be found on bluesky at https://bsky.app/profile/mattvcannon1.bsky.social
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/72px-LinkedIn_icon.svg.png?20210220164014" alt="linkedin" width="50" height="50"/>
 I can be found on linkedin at https://www.linkedin.com/in/matt-cannon-613858202/
 
+<br/><br/>
+
 You can message me through GitHub as well.
 
 ## Miscellaneous
