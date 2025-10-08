@@ -43,7 +43,7 @@ I have a background studying a broad range of biological topics, though the comm
 ## Contact me
 
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bluesky_Logo.svg/600px-Bluesky_Logo.svg.png?20240211144739" alt="bluesky" width="100" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bluesky_Logo.svg/600px-Bluesky_Logo.svg.png?20240211144739" alt="bluesky" width="50" height="50"/>
 </p>
 I can be found on bluesky at https://bsky.app/profile/mattvcannon1.bsky.social
 
