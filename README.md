@@ -27,6 +27,13 @@ I have a background studying a broad range of biological topics, though the comm
 
 ## My publications
 
+## My R packages
+
+### rrrSingleCellUtils
+
+### scanBit
+
+### primerTree
 
 ## Computational skills
 
@@ -35,6 +42,14 @@ I have a background studying a broad range of biological topics, though the comm
 
 ## Contact me
 
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bluesky_Logo.svg/600px-Bluesky_Logo.svg.png?20240211144739" alt="bluesky" width="100" height="40"/>
+</p>
+I can be found on bluesky at https://bsky.app/profile/mattvcannon1.bsky.social
+
+I can be found on linkedin at https://www.linkedin.com/in/matt-cannon-613858202/
+
+You can message me through GitHub as well.
 
 ## Miscellaneous
 
