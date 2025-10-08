@@ -44,13 +44,13 @@ I have a background studying a broad range of biological topics, though the comm
 
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bluesky_Logo.svg/600px-Bluesky_Logo.svg.png?20240211144739" alt="bluesky" width="50" height="50"/>
-</p>
-I can be found on bluesky at https://bsky.app/profile/mattvcannon1.bsky.social
+</p> I can be found on bluesky at https://bsky.app/profile/mattvcannon1.bsky.social
+
+
 
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/72px-LinkedIn_icon.svg.png?20210220164014" alt="linkedin" width="50" height="50"/>
-</p>
-I can be found on linkedin at https://www.linkedin.com/in/matt-cannon-613858202/
+</p> I can be found on linkedin at https://www.linkedin.com/in/matt-cannon-613858202/
 
 You can message me through GitHub as well.
 
