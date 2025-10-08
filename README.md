@@ -9,6 +9,13 @@ I have a background studying a broad range of biological topics, though the comm
 
 ### Osteosarcoma metastasis induces chronic inflammation similar to other chronic pulmonary diseases
 
+As part of the Roberts lab I have helped to analyses that have shown how the tumor microenvironment in osteosarcoma metastases plays a critical in allowing the tumor cells to establish in an environment dramatically differen from the primary site. We have shown that the microenvironment in osteosarcoma metastases is similar to other chronic pulmonary diseases such as COPD and idiopathic pulmonary fibrosis, and that this environment is immunosuppressive. We also showed that osteosarcoma tumor cells and epithelial cells interact heavily in this environment and that the tumor cells go through cellular programming changes usually use for tissue repair. These interactions between tumor cells and lung epithelial cells also lead to signaling within the tumor cells that allow them to attract other tumor cells to the lung. These studies also showed how select drugs can interfere with all of these processes to dramatically reduce metastases in mouse PDX models. 
+
+https://aacrjournals.org/clincancerres/article/31/2/414/751106/Aberrant-Activation-of-Wound-Healing-Programs
+
+https://aacrjournals.org/cancerres/article/doi/10.1158/0008-5472.CAN-24-3360/764426/Metastasis-Initiating-Osteosarcoma-Subpopulations
+
+
 ### Sequencing the Cuyahoga River
 
 ### Pathogen surveillance and discovery
