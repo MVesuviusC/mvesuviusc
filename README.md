@@ -31,7 +31,7 @@ https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-018-0581-6
 
 https://journals.biologists.com/bio/article/10/7/bio058855/270960/High-throughput-detection-of-eukaryotic-parasites
 
-### Single cell RNAseq on malria parasites
+### Single cell RNAseq on malaria parasites
 
 
 ## Teaching and mentoring
