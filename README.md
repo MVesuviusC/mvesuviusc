@@ -5,6 +5,8 @@ I am a Senior Bioinformatics Scientist in the lab of Ryan Roberts (https://www.n
 
 I have a background studying a broad range of biological topics, though the common throughline has always been sequencing. During my undergraduate studies I worked in two different labs doing Sanger sequencing on hornworts and the rat Sry geneMy PhD work focused on mitochondrial biology and included primariy molecular biology and mouse modeling work. I taught myself the basics of next-gen sequence analysis during this time. Following this I started a postdoc in a group at the Cleveland Clinic Lerner Research Institute under Dr. David Serre where I recieved formal training in bioinformatics and genomics. I applied these skills to many different topics and followed David to the University of Maryland, Baltimore's Institute for Genome Sciences to continue this work. I moved to the Center for Childhood Cancer Research at Nationwide Children's Hospital in 2021.
 
+For more details see: https://mvesuviusc.github.io/
+
 ## Teaching and mentoring
 
 ### Weekly bioinformatics meeting
