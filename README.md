@@ -3,9 +3,17 @@
 ## About me
 I am a Senior Bioinformatics Scientist in the lab of Ryan Roberts (https://www.nationwidechildrens.org/research/areas-of-research/center-for-childhood-cancer/roberts-lab/lab-staff) in the Center for Childhood Cancer Research at Nationwide Children's Hospital in Columbus, Ohio, USA. We study the process of metastasis in pediatric osteosarcoma with the goal of finding new therapies that can improve patient outcomes.
 
-I have a background studying a broad range of biological topics, though the common throughline has always been sequencing. During my undergraduate studies I worked in two different labs doing Sanger sequencing on hornworts and the rat Sry geneMy PhD work focused on mitochondrial biology and included primariy molecular biology and mouse modeling work. I taught myself the basics of next-gen sequence analysis during this time. Following this I started a postdoc in a group at the Cleveland Clinic Lerner Research Institute under Dr. David Serre where I recieved formal training in bioinformatics and genomics. I applied these skills to many different topics and followed David to the University of Maryland, Baltimore's Institute for Genome Sciences to continue this work. I moved to the Center for Childhood Cancer Research at Nationwide Children's Hospital in 2021.
+I have a background studying a broad range of biological topics, though the common throughline has always been sequencing. During my undergraduate studies I worked in two different labs doing Sanger sequencing on hornworts and the rat Sry gene. My PhD work with Dr. Carl Pinkert focused on mitochondrial biology and included primarily molecular biology and mouse modeling work. I taught myself the basics of next-gen sequence analysis during this time. Following this I started a postdoc in a group at the Cleveland Clinic Lerner Research Institute under Dr. David Serre where I recieved formal training in bioinformatics and genomics. I applied these skills to many different topics and followed David to the University of Maryland, Baltimore's Institute for Genome Sciences to continue this work. I moved to the Center for Childhood Cancer Research at Nationwide Children's Hospital in 2021 and now work with Dr. Ryan Roberts studying osteosarcoma.
 
 For more details see: https://mvesuviusc.github.io/
+
+## My publications
+
+My Google Scholar profile:
+https://scholar.google.com/citations?user=w3XiPdEAAAAJ&hl=en
+
+My NCBI bibliography:
+https://www.ncbi.nlm.nih.gov/myncbi/collections/mybibliography/
 
 ## Teaching and mentoring
 
@@ -25,22 +33,16 @@ https://github.com/MVesuviusC/R_workshop
 
 https://github.com/kidcancerlab/NCH_Coder_Upgrade
 
-## My publications
-
-My Google Scholar profile:
-https://scholar.google.com/citations?user=w3XiPdEAAAAJ&hl=en
-
-My NCBI bibliography:
-https://www.ncbi.nlm.nih.gov/myncbi/collections/mybibliography/
-
-
 ## My R packages
 
-### rrrSingleCellUtils
+### rrrSingleCellUtils - Streamline scRNAseq analysis
+https://github.com/kidcancerlab/rrrSingleCellUtils
 
-### scanBit
+### scanBit - Use variants in scRNAseq to ID tumor cells
+https://github.com/kidcancerlab/scanBit
 
-### primerTree
+### primerTree - Characterize species amplified by primers
+https://github.com/MVesuviusC/primerTree
 
 ## Random code bits of interest
 
