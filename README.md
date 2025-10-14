@@ -1,7 +1,7 @@
 # Matthew V Cannon
 
 ## About me
-I am a Senior Bioinformatics Scientist in the lab of Ryan Roberts (https://www.nationwidechildrens.org/research/areas-of-research/center-for-childhood-cancer/roberts-lab/lab-staff) in the Center for Childhood Cancer Research at Nationwide Children's Hospital in Columbus, Ohio, USA. We study the process of metastasis in pediatric osteosarcoma with the goal of finding new therapies that can improve patient outcomes.
+I am a Senior Bioinformatics Scientist in the lab of [Ryan Roberts](https://www.nationwidechildrens.org/research/areas-of-research/center-for-childhood-cancer/roberts-lab/lab-staff) in the Center for Childhood Cancer Research at Nationwide Children's Hospital in Columbus, Ohio, USA. We study the process of metastasis in pediatric osteosarcoma with the goal of finding new therapies that can improve patient outcomes.
 
 I have a background studying a broad range of biological topics, though the common throughline has always been sequencing. During my undergraduate studies I worked in two different labs doing Sanger sequencing on hornworts and the rat Sry gene. My PhD work with Dr. Carl Pinkert focused on mitochondrial biology and included primarily molecular biology and mouse modeling work. I taught myself the basics of next-gen sequence analysis during this time. Following this I started a postdoc in a group at the Cleveland Clinic Lerner Research Institute under Dr. David Serre where I recieved formal training in bioinformatics and genomics. I applied these skills to many different topics and followed David to the University of Maryland, Baltimore's Institute for Genome Sciences to continue this work. I moved to the Center for Childhood Cancer Research at Nationwide Children's Hospital in 2021 and now work with Dr. Ryan Roberts studying osteosarcoma.
 
@@ -20,7 +20,7 @@ I run a weekly bioinformatics meeting at Nationwide Children's Hospital. The goa
 
 I try to keep code from demos we've done [here](https://github.com/MVesuviusC/bioinformatics_meeting)
 
-This is a calendar of topics we have covered: https://docs.google.com/spreadsheets/d/1yCwYNAL9MhYErl98CikoiTW6yx5gg54w66eD73WsRVc/edit?usp=sharing
+This is a [calendar of topics we have covered](https://docs.google.com/spreadsheets/d/1yCwYNAL9MhYErl98CikoiTW6yx5gg54w66eD73WsRVc/edit?usp=sharing)
 Just a warning, the links to the videos won't work unless you're internal to NCH. If there is something you'd really like to see let me know and I'll see if I can work it out.
 
 ### Annual introduction to R for biologists workshop
