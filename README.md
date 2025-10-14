@@ -20,7 +20,7 @@ I run a weekly bioinformatics meeting at Nationwide Children's Hospital. The goa
 
 I try to keep code from demos we've done [here](https://github.com/MVesuviusC/bioinformatics_meeting)
 
-This is a [calendar of topics we have covered](https://docs.google.com/spreadsheets/d/1yCwYNAL9MhYErl98CikoiTW6yx5gg54w66eD73WsRVc/edit?usp=sharing)
+This is a [calendar of topics we have covered](https://docs.google.com/spreadsheets/d/1yCwYNAL9MhYErl98CikoiTW6yx5gg54w66eD73WsRVc/edit?usp=sharing). 
 Just a warning, the links to the videos won't work unless you're internal to NCH. If there is something you'd really like to see let me know and I'll see if I can work it out.
 
 ### Annual introduction to R for biologists workshop
